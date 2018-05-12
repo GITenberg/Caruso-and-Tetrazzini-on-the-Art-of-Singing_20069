@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9063
     wikipedia: http://en.wikipedia.org/wiki/Luisa_Tetrazzini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20069#Caruso-and-Tetrazzini-on-the-Art-of-Singing
 gutenberg_bookshelf: Music
 gutenberg_issued: '2006-12-09'
 gutenberg_type: Text
